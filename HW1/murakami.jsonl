@@ -1,0 +1,1592 @@
+[
+    {
+        "lemma": "аннотация",
+        "word": "аннотация",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "заметить",
+        "word": "заметил",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "что",
+        "word": "что",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "грудь",
+        "word": "груди",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "белый",
+        "word": "белой",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "майка",
+        "word": "майки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "налиплый",
+        "word": "налипло",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "что",
+        "word": "что",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "чёрный",
+        "word": "чёрное",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "по",
+        "word": "по",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "форма",
+        "word": "форме",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "вроде",
+        "word": "вроде",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "большой",
+        "word": "большой",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "бабочка",
+        "word": "бабочки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "с",
+        "word": "с",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "раскрытый",
+        "word": "раскрытыми",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "крыло",
+        "word": "крыльями",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "мерцать",
+        "word": "мерцающем",
+        "pos": "PRTF"
+    },
+    {
+        "lemma": "свет",
+        "word": "свете",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "люминесцентный",
+        "word": "люминесцентной",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "лампа",
+        "word": "лампы",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "стать",
+        "word": "стало",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "понятно",
+        "word": "понятно",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "это",
+        "word": "это",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "темно",
+        "word": "темно",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "красный",
+        "word": "красное",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "кровавый",
+        "word": "кровавое",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "пятно",
+        "word": "пятно",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "кровь",
+        "word": "кровь",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "свежий",
+        "word": "свежая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "ещё",
+        "word": "ещё",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "не",
+        "word": "не",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "засохлый",
+        "word": "засохла",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "довольно",
+        "word": "довольно",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "много",
+        "word": "много",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "наклонить",
+        "word": "наклонил",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "голова",
+        "word": "голову",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "понюхать",
+        "word": "понюхал",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "пятно",
+        "word": "пятно",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "никакой",
+        "word": "никакого",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "запах",
+        "word": "запаха",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "брызги",
+        "word": "брызги",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "кровь",
+        "word": "крови",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "совсем",
+        "word": "совсем",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "немного",
+        "word": "немного",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "оказаться",
+        "word": "оказались",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "темно",
+        "word": "темно",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "синь",
+        "word": "синей",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "рубашка",
+        "word": "рубашке",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "где",
+        "word": "где",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "она",
+        "word": "она",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "быть",
+        "word": "была",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "не",
+        "word": "не",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "так",
+        "word": "так",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "заметный",
+        "word": "заметна",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "а",
+        "word": "а",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "белый",
+        "word": "белой",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "майка",
+        "word": "майке",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "такой",
+        "word": "такая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "яркий",
+        "word": "яркая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "свежий",
+        "word": "свежая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "кошмарный",
+        "word": "кошмарное",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "странствие",
+        "word": "странствие",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "по",
+        "word": "по",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "лабиринт",
+        "word": "лабиринтам",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "душа",
+        "word": "души",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "новый",
+        "word": "новом",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "роман",
+        "word": "романе",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "харуки",
+        "word": "харуки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "мураками",
+        "word": "мураками",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "кафка",
+        "word": "кафка",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "пляж",
+        "word": "пляже",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "харуки",
+        "word": "харуки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "мураками",
+        "word": "мураками",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "кафка",
+        "word": "кафка",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "пляж",
+        "word": "пляже",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "парень",
+        "word": "парень",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "по",
+        "word": "по",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "прозвище",
+        "word": "прозвищу",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "ворона",
+        "word": "ворона",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "а",
+        "word": "а",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "с",
+        "word": "с",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "монета",
+        "word": "монетой",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "у",
+        "word": "у",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "ты",
+        "word": "тебя",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "как",
+        "word": "как",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "решить",
+        "word": "решил",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "вопрос",
+        "word": "вопрос",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "интересоваться",
+        "word": "интересуется",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "парень",
+        "word": "парень",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "по",
+        "word": "по",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "прозвище",
+        "word": "прозвищу",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "ворона",
+        "word": "ворона",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "он",
+        "word": "он",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "говорить",
+        "word": "говорит",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "лениво",
+        "word": "лениво",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "растягивать",
+        "word": "растягивая",
+        "pos": "GRND"
+    },
+    {
+        "lemma": "слово",
+        "word": "слова",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "такой",
+        "word": "такая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "у",
+        "word": "у",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "он",
+        "word": "него",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "манера",
+        "word": "манера",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "словно",
+        "word": "словно",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "только",
+        "word": "только",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "что",
+        "word": "что",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "очнуться",
+        "word": "очнулся",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "от",
+        "word": "от",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "тяжёлый",
+        "word": "тяжёлого",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "сон",
+        "word": "сна",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "мышца",
+        "word": "мышцы",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "рот",
+        "word": "рта",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "отяжелеть",
+        "word": "отяжелели",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "ещё",
+        "word": "ещё",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "плоховато",
+        "word": "плоховато",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "слушаться",
+        "word": "слушались",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "но",
+        "word": "но",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "это",
+        "word": "это",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "всё",
+        "word": "всё",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "видимость",
+        "word": "видимость",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "а",
+        "word": "а",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "сам",
+        "word": "самом",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "дело",
+        "word": "деле",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "сон",
+        "word": "сна",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "ни",
+        "word": "ни",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "один",
+        "word": "одном",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "глаз",
+        "word": "глазу",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "у",
+        "word": "у",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "он",
+        "word": "него",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "так",
+        "word": "так",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "всегда",
+        "word": "всегда",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "кивать",
+        "word": "киваю",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "сколько",
+        "word": "сколько",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "снова",
+        "word": "снова",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "пересчитывать",
+        "word": "пересчитываю",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "ум",
+        "word": "уме",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "отвечать",
+        "word": "отвечаю",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "наличные",
+        "word": "наличными",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "тысяча",
+        "word": "тысяч",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "четыреста",
+        "word": "четыреста",
+        "pos": "NUMR"
+    },
+    {
+        "lemma": "да",
+        "word": "да",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "ещё",
+        "word": "ещё",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "банк",
+        "word": "банке",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "карточка",
+        "word": "карточке",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "немного",
+        "word": "немного",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "конечно",
+        "word": "конечно",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "маловатый",
+        "word": "маловато",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "но",
+        "word": "но",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "пока",
+        "word": "пока",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "обойтись",
+        "word": "обойдусь",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "как",
+        "word": "как",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "нибыть",
+        "word": "нибудь",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "куда",
+        "word": "куда",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "ни",
+        "word": "ни",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "идти",
+        "word": "шло",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "говорить",
+        "word": "говорит",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "ворона",
+        "word": "ворона",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "первый",
+        "word": "первое",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "время",
+        "word": "время",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "кивать",
+        "word": "киваю",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "денежка",
+        "word": "денежки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "поди",
+        "word": "поди",
+        "pos": "INTJ"
+    },
+    {
+        "lemma": "не",
+        "word": "не",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "сант",
+        "word": "санта",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "клаус",
+        "word": "клаус",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "рождество",
+        "word": "рождество",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "принести",
+        "word": "принёс",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "продолжать",
+        "word": "продолжает",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "он",
+        "word": "он",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "нет",
+        "word": "нет",
+        "pos": "PRED"
+    },
+    {
+        "lemma": "ворона",
+        "word": "ворона",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "кривить",
+        "word": "кривит",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "насмешливо",
+        "word": "насмешливо",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "губа",
+        "word": "губы",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "огладываться",
+        "word": "огладывается",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "по",
+        "word": "по",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "сторона",
+        "word": "сторонам",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "откуда",
+        "word": "откуда",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "взять",
+        "word": "взял",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "не",
+        "word": "не",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "иначе",
+        "word": "иначе",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "как",
+        "word": "как",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "вот",
+        "word": "вот",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "здесь",
+        "word": "здесь",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "кой",
+        "word": "кое",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "у",
+        "word": "у",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "кто",
+        "word": "кого",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "из",
+        "word": "из",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "ящик",
+        "word": "ящика",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "а",
+        "word": "а",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "молчать",
+        "word": "молчу",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "понятный",
+        "word": "понятное",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "дело",
+        "word": "дело",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "он",
+        "word": "он",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "знать",
+        "word": "знает",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "что",
+        "word": "что",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "это",
+        "word": "это",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "за",
+        "word": "за",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "деньга",
+        "word": "деньги",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "к",
+        "word": "к",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "что",
+        "word": "чему",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "всё",
+        "word": "всё",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "этот",
+        "word": "эти",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "вопрос",
+        "word": "вопросы",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "вокруг",
+        "word": "вокруг",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "да",
+        "word": "да",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "около",
+        "word": "около",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "специально",
+        "word": "специально",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "подразнить",
+        "word": "подразнить",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "я",
+        "word": "меня",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "хотеть",
+        "word": "хочет",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "вот",
+        "word": "вот",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "всё",
+        "word": "всё",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "ладный",
+        "word": "ладно",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "говорить",
+        "word": "говорит",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "ворона",
+        "word": "ворона",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "ты",
+        "word": "тебе",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "деньга",
+        "word": "деньги",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "нужный",
+        "word": "нужны",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "без",
+        "word": "без",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "они",
+        "word": "них",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "никак",
+        "word": "никак",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "вот",
+        "word": "вот",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "ты",
+        "word": "ты",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "они",
+        "word": "их",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "достать",
+        "word": "достал",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "а",
+        "word": "а",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "как",
+        "word": "как",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "долг",
+        "word": "долг",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "взять",
+        "word": "взял",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "позаимствовать",
+        "word": "позаимствовал",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "тайком",
+        "word": "тайком",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "украсть",
+        "word": "украл",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "какой",
+        "word": "какая",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "разница",
+        "word": "разница",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "денежка",
+        "word": "денежки",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "всё",
+        "word": "всё",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "равно",
+        "word": "равно",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "твой",
+        "word": "твоего",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "отец",
+        "word": "отца",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "на",
+        "word": "на",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "какой",
+        "word": "какое",
+        "pos": "ADJF"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "время",
+        "word": "время",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "должный",
+        "word": "должно",
+        "pos": "ADJS"
+    },
+    {
+        "lemma": "хватить",
+        "word": "хватить",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "но",
+        "word": "но",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "вот",
+        "word": "вот",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "потратить",
+        "word": "потратишь",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "ты",
+        "word": "ты",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "четыреста",
+        "word": "четыреста",
+        "pos": "NUMR"
+    },
+    {
+        "lemma": "тысяча",
+        "word": "тысяч",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "или",
+        "word": "или",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "сколько",
+        "word": "сколько",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "там",
+        "word": "там",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "у",
+        "word": "у",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "ты",
+        "word": "тебя",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "что",
+        "word": "что",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "далёкий",
+        "word": "дальше",
+        "pos": "COMP"
+    },
+    {
+        "lemma": "деньга",
+        "word": "деньги",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "кошелёк",
+        "word": "кошельке",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "как",
+        "word": "как",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "гриб",
+        "word": "грибы",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "в",
+        "word": "в",
+        "pos": "PREP"
+    },
+    {
+        "lemma": "лес",
+        "word": "лесу",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "не",
+        "word": "не",
+        "pos": "PRCL"
+    },
+    {
+        "lemma": "расти",
+        "word": "растут",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "есть",
+        "word": "есть",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "надо",
+        "word": "надо",
+        "pos": "PRED"
+    },
+    {
+        "lemma": "спать",
+        "word": "спать",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "где",
+        "word": "где",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "кончиться",
+        "word": "кончатся",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "деньга",
+        "word": "деньги",
+        "pos": "NOUN"
+    },
+    {
+        "lemma": "то",
+        "word": "то",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "тогда",
+        "word": "тогда",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "думать",
+        "word": "думать",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "быть",
+        "word": "буду",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "говорить",
+        "word": "говорю",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "я",
+        "word": "я",
+        "pos": "NPRO"
+    },
+    {
+        "lemma": "тогда",
+        "word": "тогда",
+        "pos": "ADVB"
+    },
+    {
+        "lemma": "и",
+        "word": "и",
+        "pos": "CONJ"
+    },
+    {
+        "lemma": "думать",
+        "word": "думать",
+        "pos": "INFN"
+    },
+    {
+        "lemma": "быть",
+        "word": "буду",
+        "pos": "VERB"
+    },
+    {
+        "lemma": "повторять",
+        "word": "повторяет",
+        "pos": "VERB"
+    }
+]
